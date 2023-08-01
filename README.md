@@ -1,2 +1,3 @@
 # scaling-fishstick
-final project
+final project for data science course
+
